@@ -1,0 +1,21 @@
+# MacOS için gereksiz dosyalar
+.DS_Store
+.CFUserTextEncoding
+
+# Node.js bağımlılıkları
+node_modules/
+
+# Python sanal ortam dosyası
+venv/
+
+# IDE dosyaları (VS Code, PyCharm vb.)
+.vscode/
+.idea/
+
+# Çeşitli geçici dosyalar
+*.log
+*.bak
+*.tmp
+
+# Çevresel dosyalar
+.env
