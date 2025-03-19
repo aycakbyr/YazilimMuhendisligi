@@ -1,4 +1,4 @@
-#Full Stack Web App
+#Full Stack Web App music-controller
 
 Hafta 1:
 	•	📌 Gün 1-2: Proje için temel dizin yapısını oluştur. Django backend ve React frontend’i ayarla.
